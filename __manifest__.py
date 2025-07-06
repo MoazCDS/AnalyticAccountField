@@ -6,6 +6,6 @@
     'version': '18.0.0.1.0',
     'depends': ['base', 'purchase', 'accountant', 'sale_management'],
     'data': [
-        "views/views.xml"
+        "views/analytic_account_addition_view.xml"
     ],
 }

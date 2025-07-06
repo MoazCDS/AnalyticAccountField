@@ -1,1 +1,1 @@
-from . import models
+from . import analytic_account_addition
